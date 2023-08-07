@@ -11,20 +11,15 @@
 - Regulamento do TCC  
 - Encaminhamentos para o Termo de Compromisso  
 
-## Apresentação do Professor
-
-- [Apresentação do Professor](https://github.com/dalton-reis/dalton-reis/blob/main/README.md "Apresentação do Professor")  
+## Apresentação da Professora
 
 ## Apresentação da Disciplina
 
 - **Avisos**: todos os avisos serão feitos por e-mail institucional (aluno@furb.br)  
-- [AVA3 BCC]  
 
 ### Plano de Ensino
 
-[Plano Ensino AVA BCC]  
-
-Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
+ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
 - Quantidade de créditos: 4;  
 - Parte teórica, atendimento individual, revisão + ajustes etc.;  

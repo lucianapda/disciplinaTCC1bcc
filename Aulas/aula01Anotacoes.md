@@ -1,6 +1,6 @@
 <!-- \[INICIO] atualizar -->
-[AVA3 BCC]: https://ava3.furb.br/course/view.php?id=31568 "AVA3 BCC"  
-[Plano Ensino AVA BCC]: https://ava3.furb.br/course/view.php?id=31568&section=1 "Plano Ensino AVA BCC"  
+[AVA3]: https://ava3.furb.br/course/view.php?id=36829 "AVA3"  
+[Plano Ensino AVA]: https://ava3.furb.br/course/view.php?id=36829&section=1 "Plano Ensino AVA BCC"  
 
 # Aula01: Visão Geral da Disciplina
 
@@ -12,12 +12,18 @@
 - Encaminhamentos para o Termo de Compromisso  
 
 ## Apresentação da Professora
+- Luciana Pereira de Araújo Kohler
+- Áreas: Programação Java, Programação Web, Sistemas Colaborativos, Sistemas com foco na Educação, Interação Humano Computador
+- LPA@furb.br
 
 ## Apresentação da Disciplina
 
 - **Avisos**: todos os avisos serão feitos por e-mail institucional (aluno@furb.br)  
+- [AVA3] 
 
 ### Plano de Ensino
+
+[Plano Ensino AVA]
 
  Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
@@ -37,7 +43,7 @@
 
 ## Cronograma
 
-[Cronograma](../Cronogramas/ "Cronograma")  
+[Cronograma](../Cronogramas/ "Cronograma_BCC")  
 
 ## Regulamentos do TCC
 
